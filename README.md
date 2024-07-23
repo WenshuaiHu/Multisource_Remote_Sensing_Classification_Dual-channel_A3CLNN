@@ -19,4 +19,8 @@ Please cite our paper if you find the code or dataset useful for your research.
   keywords={Laser radar;Feature extraction;Data models;Learning systems;Neural networks;Hyperspectral sensors;Attention mechanism;convolutional long short-term memory;feature extraction;fusion;multisource remote sensing data classification;transfer learning},<br>
   doi={10.1109/TNNLS.2020.3028945}}@ARTICLE{8960629,}}
 
+# Requirements
+
+Tensorflow v1&v2
+
 # Note
