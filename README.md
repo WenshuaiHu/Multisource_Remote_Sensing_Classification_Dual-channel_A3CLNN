@@ -25,6 +25,6 @@ Please cite our paper if you find the code or dataset useful for your research.
 
 # Requirements
 
-Tensorflow v1&v2
+Tensorflow V1&V2
 
 # Note
